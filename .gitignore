@@ -9,6 +9,7 @@
 /ProjectSettings
 /UserSettings
 /Packages
+/Temp
 
 *.csproj
 *.sln
