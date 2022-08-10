@@ -1,0 +1,15 @@
+﻿
+/node_modules
+/.idea
+/.vs
+/.vscode
+/Library
+/Logs
+/obj
+/ProjectSettings
+/UserSettings
+/Packages
+
+*.csproj
+*.sln
+*.user
